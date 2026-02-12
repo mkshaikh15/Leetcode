@@ -1,2 +1,2 @@
 # Leetcode
-I will begin with brute force algorithms, then move onto more advanced data structures to optimize runtime complexities.
+I will begin with brute force algorithms, then move onto more complex data structures and algorithms to optimize runtime complexities.
